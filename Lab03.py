@@ -1,13 +1,13 @@
 # 1. Name:
-#      -your name-
+#      Tess Hollinger 
 # 2. Assignment Name:
 #      Lab 03 : Calendar Program
 # 3. Assignment Description:
-#      -describe what this program is meant to do-
+#      This is a calender program that shows a little monthly calendar. It takes into account leap years and days in a month. 
 # 4. What was the hardest part? Be as specific as possible.
-#      -a paragraph or two about how the assignment went for you-
+#     The hardest part was the compute offset. I had a hard time figuring out the math to find out the day of the week and how many days have passed. 
 # 5. How long did it take for you to complete the assignment?
-#      -total time in hours including reading the assignment and submitting the program-
+#      This took me 3 hours to complete. 
 
 
 
